@@ -2,7 +2,13 @@
 
 Desenvolvedor apaixonado por tecnologia e desenvolvimento de software.  
 
-Atualmente trabalhando em projetos com **Python**.
+---
+
+## 📂 Projetos
+
+
+- **HandFlect** — Start-up focada em tecnologias educacionais e interativas que usa **reconhecimento de gestos** para criar experiências imersivas de aprendizagem e entretenimento.
+- **Astea** — Plataforma web para gestão de **feiras científicas**, com foco em organização, avaliação de projetos e participação colaborativa de estudantes, professores e avaliadores.
 
 ---
 
@@ -21,8 +27,3 @@ Atualmente trabalhando em projetos com **Python**.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🔹 Ferramentas e Tecnologias
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
