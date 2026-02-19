@@ -33,6 +33,6 @@ Desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosedsousa-dev&show_icons=true&theme=dracula&locale=pt-br&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedsousa-dev&layout=compact&theme=dracula&locale=pt-br&count_private=true" />
+  <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosedsousa-dev&show_icons=true&theme=dracula&locale=pt-br&count_private=true" />
+  <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedsousa-dev&layout=compact&theme=dracula&locale=pt-br&count_private=true" />
 </div>
