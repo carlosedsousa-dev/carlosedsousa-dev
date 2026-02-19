@@ -27,3 +27,12 @@ Desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosedsousa-dev&show_icons=true&theme=dracula&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosedsousa-dev&layout=compact&theme=dracula&locale=pt-br" />
+</div>
